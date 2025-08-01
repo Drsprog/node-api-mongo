@@ -39,5 +39,5 @@ Esta es una API REST para gestionar un CRUD completo de libros, desarrollada con
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/api-libros-node.git
+git clone https://github.com/Drsprog/node-api-mongo
 cd api-libros-node
